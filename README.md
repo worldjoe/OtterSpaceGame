@@ -1,4 +1,5 @@
- 
+Create new sprites from images:
+https://kristianpedersen.github.io/Convert-Image-to-MakeCode-Arcade-Sprite/
 
 
 > Open this page at [https://worldjoe.github.io/otterspacegame/](https://worldjoe.github.io/otterspacegame/)
